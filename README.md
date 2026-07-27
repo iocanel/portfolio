@@ -37,6 +37,7 @@ Small tools and utilities born out of curiosity or everyday needs. Some useful, 
 | [iocanel/yapt](https://github.com/iocanel/yapt) | Yet another pomodoro tool | Shell | |
 | [iocanel/passonym](https://github.com/iocanel/passonym) | An anonymizer utility for people using password-store in public configurations | Shell | |
 | [iocanel/hg2jj](https://github.com/iocanel/hg2jj) | A tool for navigating and reorganizing Jiu Jitsu instructionals | Rust | |
+| [iocanel/mpd-hykr](https://github.com/iocanel/mpd-hykr) | A music player with no window: MPD plays, wofi picks, the window manager is the interface | Shell | Multi alphabet fuzzy search |
 
 ## Configuration Projects
 
